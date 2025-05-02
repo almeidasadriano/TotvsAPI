@@ -1,6 +1,6 @@
 <h2>Sobre</h2>
 <blockquote>
-  <p dir="auto">Criação de API do Protheus para inclusão de Pré-Nota de Entrada, utilizando  <b>MSExecAuto MATA140</b></p>
+  <p dir="auto">Criação de API com o método <b>Post</b> do Protheus para inclusão de Pré-Nota de Entrada recebida em formato <b>JSON</b>, utilizando  <b>MSExecAuto MATA140</b>.</p>
 </blockquote>
 
 <b>Importante:</b>  Estou executando o ExecAuto mas antes tem um Prepare Enviroment com a filial e empresa, por dentro do Protheus esse ExecAuto funciona normalmente porém no caso da API, ele não reconhece a filial setada apenas no cabeçalho.
